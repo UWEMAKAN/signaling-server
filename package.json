@@ -18,12 +18,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-with-chaim/p2p-starter-files.git"
+    "url": "git+https://github.com/UWEMAKAN/signaling-server.git"
   },
-  "author": "",
+  "author": "Uwem Akan",
   "bugs": {
-    "url": "https://github.com/coding-with-chaim/p2p-starter-files/issues"
+    "url": "https://github.com/UWEMAKAN/signaling-server/issues"
   },
-  "homepage": "https://github.com/coding-with-chaim/p2p-starter-files#readme",
+  "homepage": "https://github.com/UWEMAKAN/signaling-server#readme",
   "description": ""
 }
